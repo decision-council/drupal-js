@@ -123,6 +123,7 @@ Note: Before using these tools try to use the built-in, bundled tools you get fr
 - [PostCSS](https://postcss.org)
 - [husky](https://github.com/typicode/husky)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [JSON](https://www.json.org/json-en.html), [JSON API](https://jsonapi.org)
 - Bundlers: [Webpack](https://webpack.js.org), [esbuild](https://esbuild.github.io)
 - Code linting etc: [EditorConfig](http://editorconfig.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [JSLint](https://www.jslint.com)
